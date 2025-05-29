@@ -6,7 +6,7 @@
   
 **Age** 
 - [Generational Slang; Slang Hub](https://slanghub.com/generational-slang/)
-- use developmental psychology book - Thorová
+- Thorová, K. (2015). Vývojová psychologie: proměny lidské psychiky od početí po smrt. Portál.
 
 **Education**
 - pre-school; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
@@ -15,7 +15,6 @@
 - middle school; [120 Debate Topics for High and Middle School Students; The Edvocate](https://www.theedadvocate.org/120-debate-topics-for-high-school-students/)
 - high-school; [50 Debate Topics for High School](https://www.thoughtco.com/debate-topics-for-high-school-8252)	
 - bachelor's in linguistics; [211 Interesting Research Topics in Linguistics For Your Thesis](https://thesisgeek.com/blog/research-topics-in-linguistics/)
-- ~~Bc. in medicine -~~ 
 - Bc. in cs; hard introductory programming course; aloha networking system; 
 - dropout; disengagement; financial crisis; academic failure; high-school; college; university; master's; undergraduate; PhD.
 - master's in CS; Kolmongorov complexity; voronoi diagrams; Random Forests; 
