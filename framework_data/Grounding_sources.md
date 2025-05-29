@@ -4,12 +4,10 @@
 - yoruba; [Yoruba religion; Wikipedia](https://en.wikipedia.org/wiki/Yoruba_religion)
 - polynesian; [Religion of Māori people; Wikipedia](https://en.wikipedia.org/wiki/Religion_of_M%C4%81ori_people)
   
-\\
 **Age** 
 - [Generational Slang; Slang Hub](https://slanghub.com/generational-slang/)
 - use developmental psychology book - Thorová
 
-  \\
 **Education**
 - pre-school; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
 - kindergarten; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
@@ -23,7 +21,6 @@
 - master's in CS; Kolmongorov complexity; voronoi diagrams; Random Forests; 
 - doctoral; dissertation; defense; supervisor
   
-  \\
 **Jobs**
 - pick 10; 5 common; 5 uncommon 
 - chief engineering officer; [Chief Executive Officer](https://www.reddit.com/r/ceo/)
@@ -38,7 +35,6 @@
 - dentist; dentures; teeth radiograph; braces
 - occupational therapist; elderly patient well-being; early intervention
 - woodworker; cherry wood; chisels; Hand-plane; files
-  \\
   
 **Ethnicity** 
 - Kreoli; [Known Before You Go; Haitian Slang Words & Phrases · Visit Haiti](https://visithaiti.com/haiti-up-close/haitian-slang-words-phrases/)
