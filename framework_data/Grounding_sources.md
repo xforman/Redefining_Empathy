@@ -3,9 +3,13 @@
 - [Major World Religions Overview | World Religions Class Notes | Fiveable](https://library.fiveable.me/hs-world-religions/unit-1/major-world-religions-overview/study-guide/R87hwVvwj69fKzpj)
 - yoruba; [Yoruba religion; Wikipedia](https://en.wikipedia.org/wiki/Yoruba_religion)
 - polynesian; [Religion of Māori people; Wikipedia](https://en.wikipedia.org/wiki/Religion_of_M%C4%81ori_people)
+  
+\\
 **Age** 
 - [Generational Slang; Slang Hub](https://slanghub.com/generational-slang/)
 - use developmental psychology book - Thorová
+
+  \\
 **Education**
 - pre-school; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
 - kindergarten; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
@@ -18,6 +22,8 @@
 - dropout; disengagement; financial crisis; academic failure; high-school; college; university; master's; undergraduate; PhD.
 - master's in CS; Kolmongorov complexity; voronoi diagrams; Random Forests; 
 - doctoral; dissertation; defense; supervisor
+  
+  \\
 **Jobs**
 - pick 10; 5 common; 5 uncommon 
 - chief engineering officer; [Chief Executive Officer](https://www.reddit.com/r/ceo/)
@@ -31,7 +37,9 @@
 - janitor; [The first line in clean.](https://www.reddit.com/r/janitorial/?rdt=50722)
 - dentist; dentures; teeth radiograph; braces
 - occupational therapist; elderly patient well-being; early intervention
-- woodworker; cherry wood; chisels; Hand-plane; files 
+- woodworker; cherry wood; chisels; Hand-plane; files
+  \\
+  
 **Ethnicity** 
 - Kreoli; [Known Before You Go; Haitian Slang Words & Phrases · Visit Haiti](https://visithaiti.com/haiti-up-close/haitian-slang-words-phrases/)
 - White American; [What’s your favorite white people phrases? 😂 ; r/NYStateOfMind](https://www.reddit.com/r/NYStateOfMind/comments/u3whnh/whats_your_favorite_white_people_phrases/)
