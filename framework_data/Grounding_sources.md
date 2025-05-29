@@ -5,41 +5,52 @@
 - polynesian; [Religion of Māori people; Wikipedia](https://en.wikipedia.org/wiki/Religion_of_M%C4%81ori_people)
   
 **Age** 
+
+Constructed based on slang terms and featured examples in Thorová (2015), appropriate to that age group
+
 - [Generational Slang; Slang Hub](https://slanghub.com/generational-slang/)
 - Thorová, K. (2015). Vývojová psychologie: proměny lidské psychiky od početí po smrt. Portál.
 
 **Education**
+
+Constructed based on the author's experience and suitable debate topics in the given age groups
+
 - pre-school; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
 - kindergarten; [74 Interesting Debate Topics for Kids of All Ages & Grades](https://www.splashlearn.com/blog/interesting-debate-topics-for-kids-of-all-ages/)
 - elementary school;  [https://makingenglishfun.com/wp-content/uploads/2023/11/100-Controversial-Debate-Topics-for-Elementary-Students-list-version.pdf](https://makingenglishfun.com/wp-content/uploads/2023/11/100-Controversial-Debate-Topics-for-Elementary-Students-list-version.pdf#:~:text=%E2%80%A2%20Should%20homework%20be%20banned%20in%20elementary%20school%3F,the%20morning%3F%20%E2%80%A2%20Are%20school%20lunches%20healthy%20enough%3F)
 - middle school; [120 Debate Topics for High and Middle School Students; The Edvocate](https://www.theedadvocate.org/120-debate-topics-for-high-school-students/)
 - high-school; [50 Debate Topics for High School](https://www.thoughtco.com/debate-topics-for-high-school-8252)	
 - bachelor's in linguistics; [211 Interesting Research Topics in Linguistics For Your Thesis](https://thesisgeek.com/blog/research-topics-in-linguistics/)
-- Bc. in cs; hard introductory programming course; aloha networking system; 
-- dropout; disengagement; financial crisis; academic failure; high-school; college; university; master's; undergraduate; PhD.
-- master's in CS; Kolmongorov complexity; voronoi diagrams; Random Forests; 
-- doctoral; dissertation; defense; supervisor
+- Bc. in cs; own 
+- dropout; disengagement; own
+- master's in CS; own 
+- doctoral; own
   
 **Jobs**
-- pick 10; 5 common; 5 uncommon 
+
+Mostly found suitable topics within suitable subredits 
+
 - chief engineering officer; [Chief Executive Officer](https://www.reddit.com/r/ceo/)
-- factory worker; quality control; bathroom break length; robots in a factory
-- programmer; bash programming; git commit to a repository; backend of a website
-- lawyer; an arbitration; a litigation; conditional discharge
-- doctor; not being able to please every patient; a medical procedure;  
-- psychologist -
+- factory worker; [Factory Worker](https://www.reddit.com/r/factoryworkers/)
+- programmer; own
+- lawyer; own
+- doctor; own  
+- psychologist; [Psychologists](https://www.reddit.com/r/Psychologists/)
 - police officer; [Police](https://www.reddit.com/r/police/)
 - investor; [Stocks; Investing and trading for all](https://www.reddit.com/r/stocks/)
 - janitor; [The first line in clean.](https://www.reddit.com/r/janitorial/?rdt=50722)
-- dentist; dentures; teeth radiograph; braces
-- occupational therapist; elderly patient well-being; early intervention
-- woodworker; cherry wood; chisels; Hand-plane; files
+- dentist; own
+- occupational therapist; own
+- woodworker; own
   
 **Ethnicity** 
+
+Mostly used ethnic slang or pidgin where possible
+
 - Kreoli; [Known Before You Go; Haitian Slang Words & Phrases · Visit Haiti](https://visithaiti.com/haiti-up-close/haitian-slang-words-phrases/)
 - White American; [What’s your favorite white people phrases? 😂 ; r/NYStateOfMind](https://www.reddit.com/r/NYStateOfMind/comments/u3whnh/whats_your_favorite_white_people_phrases/)
 - Black; [Top 11 Slang For Black People – Meaning & Usage; FluentSlang](https://fluentslang.com/slang-for-black-people/)
-- Chinese
+- Chinese; own
 - Nigerian; [25 Most Important Nigerian Pidgin English Slangs For Beginners](https://answersafrica.com/25-most-important-nigerian-pidgin-english-slangs-for-beginners.html)
 - Japanese; [Learn Japanese Slang With These 50 Examples](https://preply.com/en/blog/japanese-slang/#:~:text=Dive%20into%20Japanese%20slang%20with%20these%2050%20examples%2C,Japanese%20is%20full%20of%20unique%20and%20playful%20slang.?msockid=0628a4c44755625b14eeb1e046bb63ab)
 - British; [131 top British slang words; expressions & meanings to learn](https://www.berlitz.com/blog/british-slang-lingo-words-meanings)
