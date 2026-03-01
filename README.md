@@ -51,14 +51,13 @@ The **social context** of the scenario (e.g., background, identity cues, circums
 
 * Changes in causal explanations
 * Sensitivity to contextual cues
-* Emergence of subjective assumptions
 * Bias in reasoning across social contexts
 
 This enables assessment of:
 
 * Context-aware interpretation
-* Cognitive and affective empathy behaviors
-* Bias and ethical risk in model reasoning
+* Cognitive and affective empathy
+* Bias in model reasoning
 
 ---
 
@@ -81,6 +80,9 @@ This enables assessment of:
 
 * **`framework/`**
   Core components for scenario construction, empathy dimensions, and metric computation.
+
+  * **`llm_eval_utils/model_eval.py`**
+    Contains loader functions for the LLMs from Hugging Face, evaluated locally, possibly using vLLM for efficiency. However, as of 5/2025 there were dependency issues between numpy and vLLM, caution is advised.  
 
 * **`llm_eval_utils/`**
   Utilities for running evaluations with LLMs, including prompt handling and response processing.
